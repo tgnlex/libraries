@@ -1,0 +1,6 @@
+@import "./overflow.css";
+.opaque { opacity: 0.8 };
+
+.circle { border-radius: 100% };
+.curved { border-radius: 5px};
+.round { border-radius: 10px};

@@ -1,0 +1,13 @@
+:root {
+  --black: rgb(0, 0, 0);
+  --white: rgb(255, 255, 255);  
+  --gray: rgb(122, 122, 122);
+  --red: rgb(255, 0, 0);
+  --green: rgb(0, 255, 0);
+  --blue: rgb(0, 0, 255);
+  --cyan: rgb(0, 255, 255);
+  --purple: rgb(255, 0, 255);
+  --yellow: rgb(255, 255, 0);
+  --lavender: rgb(100 108 255);
+
+}

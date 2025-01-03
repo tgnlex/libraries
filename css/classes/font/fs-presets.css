@@ -1,0 +1,65 @@
+.fs-text {
+  font-size: var(--fs--text);
+  font-weight: var(--weight--text);
+  &.font-min { font-size: var(--fs--btn--min)};
+  &.font-xs { font-size: var(--fs--btn--xs)};
+  &.font-sm { font-size: var(--fs--btn--sm)};
+  &.font-lg { font-size: var(--fs--btn--lg)};
+  &.font-xl { font-size: var(--fs--btn--xl)};
+  &.font-max { font-size: var(--fs--btn--max)};
+}
+
+.fs-btn {
+  font-size: var(--fs--btn);
+  font-weight: var(--weight--btn);
+  &.font-min { font-size: var(--fs--btn--min)};
+  &.font-xs { font-size: var(--fs--btn--xs)};
+  &.font-sm { font-size: var(--fs--btn--sm)};
+  &.font-lg { font-size: var(--fs--btn--lg)};
+  &.font-xl { font-size: var(--fs--btn--xl)};
+  &.font-max { font-size: var(--fs--btn--max)};
+}
+.fs-link {
+  font-size: var(--fs--link);
+  font-weight: var(--weight--link);
+  &.font-min { font-size: var(--fs--btn--min)};
+  &.font-xs { font-size: var(--fs--btn--xs)};
+  &.font-sm { font-size: var(--fs--btn--sm)};
+  &.font-lg { font-size: var(--fs--btn--lg)};
+  &.font-xl { font-size: var(--fs--btn--xl)};
+  &.font-max { font-size: var(--fs--btn--max)};
+}
+
+.fs-input {
+  font-size: var(--fs--input);
+  font-weight: var(--weight--input);
+  &.font-min { font-size: var(--fs--input--min)};
+  &.font-xs { font-size: var(--fs--input--xs)};
+  &.font-sm { font-size: var(--fs--input--sm)};
+  &.font-lg { font-size: var(--fs--input--lg)};
+  &.font-xl { font-size: var(--fs--input--xl)};
+  &.font-max { font-size: var(--fs--input--max)};
+}
+
+.fs-subhead {
+  font-size: var(--fs--subhead);
+  font-weight: var(--weight--subhead);
+  &.font-min { font-size: var(--fs--btn--min)};
+  &.font-xs { font-size: var(--fs--btn--xs)};
+  &.font-sm { font-size: var(--fs--btn--sm)};
+  &.font-lg { font-size: var(--fs--btn--lg)};
+  &.font-xl { font-size: var(--fs--btn--xl)};
+  &.font-max { font-size: var(--fs--btn--max)};
+}
+
+
+.fs-heading {
+  font-size: var(--fs--heading);
+  font-weight: var(--weight--heading);
+  &.font-min { font-size: var(--fs--btn--min)};
+  &.font-xs { font-size: var(--fs--btn--xs)};
+  &.font-sm { font-size: var(--fs--btn--sm)};
+  &.font-lg { font-size: var(--fs--btn--lg)};
+  &.font-xl { font-size: var(--fs--btn--xl)};
+  &.font-max { font-size: var(--fs--btn--max)};
+}

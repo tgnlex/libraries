@@ -1,0 +1,51 @@
+:root { 
+  /** modification multipliers **/ 
+   --fs--mult--min: 0.25;
+   --fs--mult--xs: 0.5;
+   --fs--mult--sm: 0.75;
+   --fs--mult--lg: 1.25;
+   --fs--mult--xl: 1.5;
+   --fs--mult--max: 1.75;  
+   /** modified base font-sizes **/
+   --fs--btn--min: calc(var(--fs--btn) * var(--fs--mult--min));
+   --fs--btn--xs: calc(var(--fs--btn) * var(--fs--mult--xs));
+   --fs--btn--sm: calc(var(--fs--btn) * var(--fs--mult--sm));
+   --fs--btn--lg: calc(var(--fs--btn) * var(--fs--mult--lg));
+   --fs--btn--xl: calc(var(--fs--btn) * var(--fs--mult--xl));
+   --fs--btn--max: calc(var(--fs--btn) * var(--fs--mult--max));
+ 
+   --fs--text--min: calc(var(--fs--text) * var(--fs--mult--min));
+   --fs--text--xs: calc(var(--fs--text) * var(--fs--mult--xs));
+   --fs--text--sm: calc(var(--fs--text) * var(--fs--mult--sm));
+   --fs--text--lg: calc(var(--fs--text) * var(--fs--mult--lg));
+   --fs--text--xl: calc(var(--fs--text) * var(--fs--mult--xl));
+   --fs--text--max: calc(var(--fs--text) * var(--fs--mult--max));
+ 
+   --fs--input--min: calc(var(--fs--input) * var(--fs--mult--min));
+   --fs--input--xs: calc(var(--fs--input) * var(--fs--mult--xs));
+   --fs--input--sm: calc(var(--fs--input) * var(--fs--mult--sm));
+   --fs--input--lg: calc(var(--fs--input) * var(--fs--mult--lg));
+   --fs--input--xl: calc(var(--fs--input) * var(--fs--mult--xl));
+   --fs--input--max: calc(var(--fs--input) * var(--fs--mult--max));
+ 
+   --fs--link--min: calc(var(--fs--link) * var(--fs--mult--min));
+   --fs--link--xs: calc(var(--fs--link) * var(--fs--mult--xs));
+   --fs--link--sm: calc(var(--fs--link) * var(--fs--mult-sm));
+   --fs--link--lg: calc(var(--fs--link) * var(--fs--mult--lg));
+   --fs--link--xl: calc(var(--fs--link) * var(--fs--mult--xl));
+   --fs--link--max: calc(var(--fs--link) * var(--fs--mult--max));
+ 
+   --fs--subhead--min: calc(var(--fs--subhead) * var(--fs--mult--min));
+   --fs--subhead--xs: calc(var(--fs--subhead) * var(--fs--mult--xs));  
+   --fs--subhead--sm: calc(var(--fs--subhead) * var(--fs--mult--sm));
+   --fs--subhead--lg: calc(var(--fs--subhead) * var(--fs--mult--lg));
+   --fs--subhead--xl: calc(var(--fs--subhead) * var(--fs--mult--xl));
+   --fs--subhead--max: calc(var(--fs--subhead) * var(--fs--mult--max));
+ 
+   --fs--heading--min: calc(var(--fs--heading) * var(--fs--mult--min));
+   --fs--heading--xs: calc(var(--fs--heading) * var(--fs--mult--xs));  
+   --fs--heading--sm: calc(var(--fs--heading) * var(--fs--mult--sm));
+   --fs--heading--lg: calc(var(--fs--heading) * var(--fs--mult--lg));
+   --fs--heading--xl: calc(var(--fs--heading) * var(--fs--mult--xl));
+   --fs--heading--max: calc(var(--fs--heading) * var(--fs--mult--max));
+}

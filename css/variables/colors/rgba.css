@@ -1,0 +1,68 @@
+:root {
+  --white-alpha-900: rgba(255, 255, 255, .9);
+  --gray-alpha-900: rgba(122, 122, 122, .9);
+  --red-alpha-900: rgba(255, 0, 0, .9);
+  --green-alpha-900: rgba(0, 255, 0, .9);
+  --blue-alpha-900: rgb(0, 0, 255, .9);
+  --cyan-alpha-900: rgba(0, 255, 255, .9);
+  --purple-alpha-900: rgba(255, 0, 255, .9);
+  --yellow-alpha-900: rgba(255, 255, 0, .9);
+  --lavender-alpha-900: rgba(100, 108, 255, .9);
+}
+
+:root {
+    --white-alpha-800: rgba(255, 255, 255, .8);
+    --gray-alpha-800: rgba(122, 122, 122, .8);
+    --red-alpha-800: rgba(255, 0, 0, .8);
+    --green-alpha-800: rgba(0, 255, 0, .8);
+    --blue-alpha-800: rgb(0, 0, 255, .8);
+    --cyan-alpha-800: rgba(0, 255, 255, .8);
+    --purple-alpha-800: rgba(255, 0, 255, .8);
+    --yellow-alpha-800: rgba(255, 255, 0, .8);
+    --lavender-alpha-800: rgba(100, 108, 255, .8);
+  }
+  :root {
+    --white-alpha-700: rgba(255, 255, 255, .7);
+    --gray-alpha-700: rgba(122, 122, 122, .7);
+    --red-alpha-700: rgba(255, 0, 0, .7);
+    --green-alpha-700: rgba(0, 255, 0, .7);
+    --blue-alpha-700: rgb(0, 0, 255, .7);
+    --cyan-alpha-700: rgba(0, 255, 255, .7);
+    --purple-alpha-700: rgba(255, 0, 255, .7);
+    --yellow-alpha-700: rgba(255, 255, 0, .7);
+    --lavender-alpha-700: rgba(100, 108, 255, .7);
+  }
+  
+  :root {
+    --white-alpha-600: rgba(255, 255, 255, .6);
+    --gray-alpha-600: rgba(122, 122, 122, .6);
+    --red-alpha-600: rgba(255, 0, 0, .6);
+    --green-alpha-600: rgba(0, 255, 0, .6);
+    --blue-alpha-600: rgb(0, 0, 255, .6);
+    --cyan-alpha-600: rgba(0, 255, 255, .6);
+    --purple-alpha-600: rgba(255, 0, 255, .6);
+    --yellow-alpha-600: rgba(255, 255, 0, .6);
+    --lavender-alpha-600: rgba(100, 108, 255, .6);
+  }
+  :root {
+    --white-alpha-500: rgba(255, 255, 255, .5);
+    --gray-alpha-500: rgba(122, 122, 122, .5);
+    --red-alpha-500: rgba(255, 0, 0, .5);
+    --green-alpha-500: rgba(0, 255, 0, .5);
+    --blue-alpha-500: rgb(0, 0, 255, .5);
+    --cyan-alpha-500: rgba(0, 255, 255, .5);
+    --purple-alpha-500: rgba(255, 0, 255, .5);
+    --yellow-alpha-500: rgba(255, 255, 0, .5);
+    --lavender-alpha-500: rgba(100, 108, 255, .5);
+  }
+  :root {
+    --white-alpha-400: rgba(255, 255, 255, .4);
+    --gray-alpha-400: rgba(122, 122, 122, .4);
+    --red-alpha-400: rgba(255, 0, 0, .4);
+    --green-alpha-400: rgba(0, 255, 0, .4);
+    --blue-alpha-600: rgb(0, 0, 255, .4);
+    --cyan-alpha-400: rgba(0, 255, 255, .4);
+    --purple-alpha-400: rgba(255, 0, 255, .4);
+    --yellow-alpha-400: rgba(255, 255, 0, .4);
+    --lavender-alpha-400: rgba(100, 108, 255, .4);
+  }

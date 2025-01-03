@@ -1,0 +1,18 @@
+:root {
+  /** base font sizes **/
+  --fs--btn: 1.125em;
+  --fs--text: 1.175em;
+  --fs--input: 1.225em;  
+  --fs--link: 1.375em; 
+  --fs--subhead: 1.75em;
+  --fs--heading: 2.25em;    
+}
+
+:root {
+  --weight--btn: 300;
+  --weight--text: 400;
+  --weight--input: 500;
+  --weight--link: 500;
+  --weight--subhead: 600;
+  --weight--heading: 800;
+}
